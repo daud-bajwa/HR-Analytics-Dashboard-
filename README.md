@@ -1,6 +1,5 @@
 # 📊 HR Analytics Dashboard
-
-![Dashboard Preview](<img width="1325" height="743" alt="Screenshot 2025-08-24 123644" src="https://github.com/user-attachments/assets/554db730-2a97-4c31-a9bd-1640e8eb1a2c" />
+(<img width="1325" height="743" alt="Screenshot 2025-08-24 123644" src="https://github.com/user-attachments/assets/554db730-2a97-4c31-a9bd-1640e8eb1a2c" />
 a168-3dff5043f2e2.png)
 
 ---
